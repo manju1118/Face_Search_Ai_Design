@@ -1,0 +1,92 @@
+.navbar-light{
+    background-image: url('images/one.jpg');
+    background-size: cover;
+}
+.homepage{
+    background-image: url('images/one.jpg');
+    background-size: cover;
+   
+    
+    
+}
+body{
+    background-color: rgba(227, 228, 221, 0.32);
+}
+.nav_li li a{
+    color: white !important;
+}
+.nav_li li a:hover{
+    background-color: black !important;
+}
+.h2_title{
+    margin-top: -150%;
+    color: white;
+    
+    font-weight: bold;
+    font-size: 95px;
+}
+.h3_title{
+    letter-spacing: 3px;
+}
+.p_shadow{
+    text-shadow: black;
+}
+.services{
+    background-image: url('images/services.webp');
+    margin-top: -178px;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.services_images img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.free:hover{
+    background-color: rgb(156, 198, 156);
+    cursor: pointer;
+}
+.twenty:hover{
+    background-color: rgb(93, 85, 196);
+    cursor: pointer;
+}
+.forty:hover{
+    background-color: rgb(195, 66, 206);
+    cursor: pointer;
+}
+.sixty:hover{
+    background-color: rgb(67, 212, 200);
+    cursor: pointer;
+}
+.payments{
+    background-color: rgb(122, 116, 109);
+    
+}
+.list-group-item:hover{
+    background-color: black;
+    color: white;
+}
+
+.contact{
+    box-shadow: rgba(0, 0, 0, 0.35) 10px 0px 10px;
+   
+}
+.contact_us{
+    background-image: url('images/contact.webp');
+    margin-top: -100px;
+}
+
+
+body {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  
